@@ -81,7 +81,7 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "<strong>Productos que Destacan <\/strong>",
+        "title": "<strong>Productos destacados<\/strong>",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
@@ -135,7 +135,7 @@
         "collection-1"
       ],
       "settings": {
-        "heading": "<strong>Nuestros Productos.<\/strong>",
+        "heading": "<strong>Nuestros Productos<\/strong>",
         "heading_size": "h2",
         "desktop_layout": "left",
         "mobile_layout": "collage",
