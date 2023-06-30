@@ -18,11 +18,19 @@
             "heading": "Tu confianza en nosotros es invaluable. Gracias por elegirnos.",
             "subtext": "<p><strong>Conéctate con nosotros y descubre quiénes somos. Contáctanos para un servicio excepcional y detalles de la tienda. Explora nuestro contenido de marca y comparte tus experiencias. ¡Gracias por ser parte de nuestra comunidad!<\/strong><\/p>"
           }
+        },
+        "12227a87-35ed-49c0-b438-2dcc0f297357": {
+          "type": "link_list",
+          "settings": {
+            "heading": "POLITICAS Y SERVICIOS",
+            "menu": "pol-ticas-y-servicios"
+          }
         }
       },
       "block_order": [
         "footer-1",
-        "footer-2"
+        "footer-2",
+        "12227a87-35ed-49c0-b438-2dcc0f297357"
       ],
       "settings": {
         "color_scheme": "background-2",
