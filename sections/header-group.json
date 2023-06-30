@@ -73,7 +73,7 @@
         "0f169357-0d22-42ab-8c8a-02aa4728e9c2"
       ],
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "inverse",
         "show_line_separator": true,
         "show_social": false,
         "auto_rotate": true,
