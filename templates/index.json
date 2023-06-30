@@ -112,20 +112,20 @@
         "collection-0": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "frontpage"
           }
         },
         "product": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "guantes-de-lana-microfibra-para-lavar-autos",
             "second_image": false
           }
         },
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "envio-internacional"
           }
         }
       },
