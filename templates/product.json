@@ -71,7 +71,7 @@
         "collapsible-row-2": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Dimensions",
+            "heading": "Dimensiones",
             "icon": "ruler",
             "content": "",
             "page": ""
