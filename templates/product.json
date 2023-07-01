@@ -82,6 +82,11 @@
           "settings": {
             "share_label": "Share"
           }
+        },
+        "b0c970c8-224c-4546-8102-b730d09b1708": {
+          "type": "shopify:\/\/apps\/trust-badges-bear\/blocks\/widget\/163a9b59-0ec2-4cb7-bf5c-31408b4a9420",
+          "settings": {
+          }
         }
       },
       "block_order": [
@@ -96,7 +101,8 @@
         "collapsible-row-0",
         "collapsible-row-1",
         "collapsible-row-2",
-        "share"
+        "share",
+        "b0c970c8-224c-4546-8102-b730d09b1708"
       ],
       "settings": {
         "enable_sticky_info": true,
