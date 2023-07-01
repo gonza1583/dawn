@@ -117,6 +117,7 @@
     "cart_drawer_collection": "",
     "checkout_header_image": "shopify:\/\/shop_images\/Diseno_Banner.png",
     "checkout_logo_image": "shopify:\/\/shop_images\/20230623_075029_0000.png",
+    "checkout_body_background_image": "shopify:\/\/shop_images\/Fondo_pantalla_de_pagos..png",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",
