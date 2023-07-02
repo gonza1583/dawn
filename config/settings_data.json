@@ -1,8 +1,8 @@
 {
   "current": {
-    "logo": "shopify:\/\/shop_images\/20230623_075029_0000.png",
+    "logo": "shopify:\/\/shop_images\/e-smartcl_logo_circulo.png",
     "logo_width": 90,
-    "favicon": "shopify:\/\/shop_images\/LOGO_TIENDA_FAVICON_512X512_7af68c0e-92b9-478a-bd61-dfcb8ae2d300.png",
+    "favicon": "shopify:\/\/shop_images\/e-smartcl_logo_circulo.png",
     "type_header_font": "soho_gothic_n4",
     "heading_scale": 105,
     "type_body_font": "cabin_n4",
@@ -100,7 +100,7 @@
     "sold_out_badge_color_scheme": "inverse",
     "brand_headline": "El Rincon Barateli.",
     "brand_description": "",
-    "brand_image": "shopify:\/\/shop_images\/LOGO_TIENDA_FAVICON_512X512_7af68c0e-92b9-478a-bd61-dfcb8ae2d300.png",
+    "brand_image": "shopify:\/\/shop_images\/e-smartcl_logo_circulo.png",
     "social_facebook_link": "https:\/\/www.facebook.com\/profile.php?id=100094165933718",
     "social_instagram_link": "https:\/\/www.instagram.com\/elrinconbarateli\/",
     "social_youtube_link": "",
@@ -119,7 +119,7 @@
     "show_cart_note": true,
     "cart_drawer_collection": "",
     "checkout_header_image": "shopify:\/\/shop_images\/Diseno_Banner.png",
-    "checkout_logo_image": "shopify:\/\/shop_images\/20230623_075029_0000.png",
+    "checkout_logo_image": "shopify:\/\/shop_images\/e-smartcl_logo_circulo.png",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",
