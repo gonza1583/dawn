@@ -112,27 +112,26 @@
         "collection-0": {
           "type": "collection",
           "settings": {
-            "collection": "productos"
-          }
-        },
-        "product": {
-          "type": "product",
-          "settings": {
-            "product": "smoke-removal-air-purification-ashtray-anion-purification-practical-automatic-purifier-ashtray-portable-gadgets-for-car-ashtray",
-            "second_image": false
+            "collection": "envio-internacional"
           }
         },
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": "envio-internacional"
+            "collection": "articulos-para-mascotas"
+          }
+        },
+        "bae3efa7-4cbd-4201-8d2d-c328988d86be": {
+          "type": "collection",
+          "settings": {
+            "collection": "maquillaje"
           }
         }
       },
       "block_order": [
         "collection-0",
-        "product",
-        "collection-1"
+        "collection-1",
+        "bae3efa7-4cbd-4201-8d2d-c328988d86be"
       ],
       "settings": {
         "heading": "<strong>Nuestros Productos<\/strong>",
