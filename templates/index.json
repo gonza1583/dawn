@@ -6,14 +6,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Descubre la selección más amplia de productos de alta calidad a precios irresistibles.<\/strong>",
+            "heading": "<em><strong>Descubre Exclusividad y Calidad: Envíos a Todo Chile. ¡No te lo pierdas!<\/strong><\/em>",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<strong>Pequeños detalles que marcan la diferencia. Sigue bajando para descubrir más.<\/strong>",
+            "text": "<strong>Revélate ante los detalles que marcan la diferencia. ¡Sumérgete y descubre más!<\/strong>",
             "text_style": "subtitle"
           }
         },
