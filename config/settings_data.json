@@ -5,7 +5,7 @@
     "favicon": "shopify:\/\/shop_images\/e-smartcl_definitivo.png",
     "type_header_font": "sans-serif",
     "heading_scale": 115,
-    "type_body_font": "cabin_n4",
+    "type_body_font": "serif",
     "body_scale": 100,
     "page_width": 1200,
     "spacing_sections": 0,
