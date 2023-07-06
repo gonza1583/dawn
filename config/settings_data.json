@@ -98,9 +98,9 @@
     "badge_corner_radius": 40,
     "sale_badge_color_scheme": "accent-2",
     "sold_out_badge_color_scheme": "inverse",
-    "brand_headline": "El Rincon Barateli.",
+    "brand_headline": "E-SmartCL Store",
     "brand_description": "",
-    "brand_image": "shopify:\/\/shop_images\/e-smartcl_logo_circulo.png",
+    "brand_image": "shopify:\/\/shop_images\/e-smartcl_definitivo.png",
     "social_facebook_link": "https:\/\/www.facebook.com\/profile.php?id=100094165933718",
     "social_instagram_link": "https:\/\/www.instagram.com\/esmartcl\/",
     "social_youtube_link": "",
@@ -119,7 +119,7 @@
     "show_cart_note": true,
     "cart_drawer_collection": "",
     "checkout_header_image": "shopify:\/\/shop_images\/Diseno_Banner.png",
-    "checkout_logo_image": "shopify:\/\/shop_images\/e-smartcl_logo_circulo.png",
+    "checkout_logo_image": "shopify:\/\/shop_images\/e-smartcl_definitivo.png",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",
