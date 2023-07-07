@@ -54,20 +54,13 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>¡Envíos a todo Chile! Aprovecha esta oportunidad!<\/strong>",
+            "heading": "<strong>¡Envíos a todo Chile! Aprovecha esta oportunidad.<\/strong>",
             "heading_size": "h2"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Descubre productos únicos para cada temporada a precios irresistibles. Aprende y enriquece tu vida con nuestros ebooks. Desde ropa exclusiva hasta productos de calidad, encontrarás todo lo que necesitas para destacar. ¡No te pierdas nuestras ofertas y sorpresas! Explora, aprende y vive nuevas experiencias con nosotros. Tu satisfacción es nuestra prioridad en nuestra tienda en línea.<\/strong><\/p><p><\/p><p><\/p><p><\/p>"
           }
         }
       },
       "block_order": [
-        "heading",
-        "text"
+        "heading"
       ],
       "settings": {
         "desktop_content_position": "center",
