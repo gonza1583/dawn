@@ -13,7 +13,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<strong>Revélate ante los detalles que marcan la diferencia. ¡Sumérgete y descubre más!<\/strong>",
+            "text": "<strong>¡Descubre los detalles que hacen la diferencia y desvela un mundo nuevo! Sumérgete en la experiencia y ¡explora más!<\/strong>",
             "text_style": "subtitle"
           }
         },
@@ -57,10 +57,17 @@
             "heading": "<strong>¡Envíos a todo Chile! Aprovecha esta oportunidad.<\/strong>",
             "heading_size": "h2"
           }
+        },
+        "5fefaf29-5766-4106-83ef-d1534e26dc76": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Envíos con plazos de entrega de 15 a 45 días hábiles. Trabajamos con proveedores de logística confiables para brindarte amplia cobertura y atención al cliente excepcional en caso de cualquier inconveniente. Tu satisfacción es nuestra prioridad.<\/p>"
+          }
         }
       },
       "block_order": [
-        "heading"
+        "heading",
+        "5fefaf29-5766-4106-83ef-d1534e26dc76"
       ],
       "settings": {
         "desktop_content_position": "center",
