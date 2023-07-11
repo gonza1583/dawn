@@ -54,7 +54,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "¡Envíos a todo Chile! Aprovecha esta oportunidad.",
+            "heading": "<strong>¡Envíos a todo Chile! Aprovecha esta oportunidad.<\/strong>",
             "heading_size": "h2"
           }
         }
