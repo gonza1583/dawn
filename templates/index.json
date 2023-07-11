@@ -35,9 +35,9 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Diseno_Banner.png",
+        "image": "shopify:\/\/shop_images\/banner_5f548278-38da-4b93-9a6c-f9bdca210a98.png",
         "image_overlay_opacity": 40,
-        "image_height": "adapt",
+        "image_height": "small",
         "desktop_content_position": "bottom-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
