@@ -78,6 +78,76 @@
         "padding_bottom": 12
       }
     },
+    "2def2072-db49-4711-bc70-dae09af6f16a": {
+      "type": "featured-product",
+      "blocks": {
+        "template--19599526232360__2def2072-db49-4711-bc70-dae09af6f16a-168940981899cb3dbe-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--19599526232360__2def2072-db49-4711-bc70-dae09af6f16a-168940981899cb3dbe-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "template--19599526232360__2def2072-db49-4711-bc70-dae09af6f16a-168940981899cb3dbe-2": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--19599526232360__2def2072-db49-4711-bc70-dae09af6f16a-168940981899cb3dbe-3": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--19599526232360__2def2072-db49-4711-bc70-dae09af6f16a-168940981899cb3dbe-4": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "template--19599526232360__2def2072-db49-4711-bc70-dae09af6f16a-168940981899cb3dbe-5": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "template--19599526232360__2def2072-db49-4711-bc70-dae09af6f16a-168940981899cb3dbe-6": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "template--19599526232360__2def2072-db49-4711-bc70-dae09af6f16a-168940981899cb3dbe-0",
+        "template--19599526232360__2def2072-db49-4711-bc70-dae09af6f16a-168940981899cb3dbe-1",
+        "template--19599526232360__2def2072-db49-4711-bc70-dae09af6f16a-168940981899cb3dbe-2",
+        "template--19599526232360__2def2072-db49-4711-bc70-dae09af6f16a-168940981899cb3dbe-3",
+        "template--19599526232360__2def2072-db49-4711-bc70-dae09af6f16a-168940981899cb3dbe-4",
+        "template--19599526232360__2def2072-db49-4711-bc70-dae09af6f16a-168940981899cb3dbe-5",
+        "template--19599526232360__2def2072-db49-4711-bc70-dae09af6f16a-168940981899cb3dbe-6"
+      ],
+      "settings": {
+        "product": "megapack-de-cursos-de-office-formato-video-peso-del-archivo-22gb",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
@@ -87,7 +157,7 @@
         "show_description": false,
         "description_style": "subtitle",
         "collection": "productos-destacados",
-        "products_to_show": 8,
+        "products_to_show": 15,
         "columns_desktop": 4,
         "full_width": false,
         "show_view_all": false,
@@ -148,6 +218,7 @@
   "order": [
     "image_banner",
     "rich_text",
+    "2def2072-db49-4711-bc70-dae09af6f16a",
     "featured_collection",
     "collage"
   ]
