@@ -17,7 +17,7 @@
         "announcement-bar-0"
       ],
       "settings": {
-        "color_scheme": "inverse",
+        "color_scheme": "accent-1",
         "show_line_separator": true,
         "show_social": false,
         "auto_rotate": false,
@@ -32,7 +32,7 @@
         "menu_type_desktop": "drawer",
         "sticky_header_type": "on-scroll-up",
         "show_line_separator": false,
-        "color_scheme": "accent-1",
+        "color_scheme": "inverse",
         "menu_color_scheme": "background-2",
         "enable_country_selector": true,
         "enable_language_selector": true,
@@ -73,7 +73,7 @@
         "0f169357-0d22-42ab-8c8a-02aa4728e9c2"
       ],
       "settings": {
-        "color_scheme": "inverse",
+        "color_scheme": "accent-1",
         "show_line_separator": true,
         "show_social": false,
         "auto_rotate": true,
