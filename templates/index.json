@@ -10,28 +10,20 @@
             "heading_size": "h1"
           }
         },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<strong>¡Descubre los detalles que hacen la diferencia y desvela un mundo nuevo! Sumérgete en la experiencia y ¡explora más!<\/strong>",
-            "text_style": "subtitle"
-          }
-        },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "¡Pincha aquí para ver nuestros productos!",
+            "button_label_1": "¡Pincha aquí si eres de Chile!",
             "button_link_1": "shopify:\/\/collections\/all",
             "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "button_label_2": "¡Click here if you're from the United States!",
+            "button_link_2": "shopify:\/\/collections\/shipping-from-usa",
+            "button_style_secondary_2": true
           }
         }
       },
       "block_order": [
         "heading",
-        "text",
         "button"
       ],
       "settings": {
