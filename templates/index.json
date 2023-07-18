@@ -154,7 +154,7 @@
         "full_width": true,
         "show_view_all": true,
         "view_all_style": "outline",
-        "enable_desktop_slider": true,
+        "enable_desktop_slider": false,
         "color_scheme": "background-2",
         "image_ratio": "square",
         "image_shape": "default",
