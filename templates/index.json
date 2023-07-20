@@ -15,10 +15,10 @@
           "settings": {
             "button_label_1": "¡Pincha aquí si eres de Chile!",
             "button_link_1": "shopify:\/\/collections\/all",
-            "button_style_secondary_1": false,
+            "button_style_secondary_1": true,
             "button_label_2": "¡Click here if you're from the United States!",
             "button_link_2": "shopify:\/\/collections\/shipping-from-usa",
-            "button_style_secondary_2": false
+            "button_style_secondary_2": true
           }
         }
       },
