@@ -87,7 +87,7 @@
         "90d02536-5b39-4328-80d2-7cbd1dcfe192": {
           "type": "featured_collection",
           "settings": {
-            "collection": "chaquetas-mujer"
+            "collection": "denim-colecction"
           }
         },
         "2ba30a2c-8232-4adb-ab60-ca030b2cda79": {
@@ -105,7 +105,25 @@
         "db3c15e8-bf88-49e0-a070-72e6692d37fa": {
           "type": "featured_collection",
           "settings": {
-            "collection": "polerones-mujer"
+            "collection": "lounge-tops-bottoms"
+          }
+        },
+        "8fa8c4df-a808-43bc-a24e-a87213bcfb14": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "accesorios-m"
+          }
+        },
+        "00c49461-e730-4932-a172-645c5aaaf53d": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "intimates-lingerie"
+          }
+        },
+        "9dfe5266-7db5-46ce-94fb-9de49f47cade": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "intimates-teddies-bodysuits"
           }
         }
       },
@@ -116,7 +134,10 @@
         "90d02536-5b39-4328-80d2-7cbd1dcfe192",
         "2ba30a2c-8232-4adb-ab60-ca030b2cda79",
         "27c364d0-17e9-4890-84dc-f6fbe33cd75e",
-        "db3c15e8-bf88-49e0-a070-72e6692d37fa"
+        "db3c15e8-bf88-49e0-a070-72e6692d37fa",
+        "8fa8c4df-a808-43bc-a24e-a87213bcfb14",
+        "00c49461-e730-4932-a172-645c5aaaf53d",
+        "9dfe5266-7db5-46ce-94fb-9de49f47cade"
       ],
       "settings": {
         "title": "<strong>Collections Women<\/strong>",
