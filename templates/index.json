@@ -147,16 +147,16 @@
         "db3c15e8-bf88-49e0-a070-72e6692d37fa"
       ],
       "settings": {
-        "title": "Collections",
-        "heading_size": "h1",
-        "image_ratio": "square",
+        "title": "Collections Women",
+        "heading_size": "h2",
+        "image_ratio": "portrait",
         "columns_desktop": 3,
         "color_scheme": "",
-        "show_view_all": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
+        "show_view_all": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 0
       }
     }
   },
