@@ -45,32 +45,16 @@
     "af4ee685-9676-411c-9a70-4eae832fb4be": {
       "type": "announcement-bar",
       "blocks": {
-        "sections--19599525609768__af4ee685-9676-411c-9a70-4eae832fb4be-16881014792cb34bbd-0": {
-          "type": "announcement",
-          "settings": {
-            "text": "¿Buscas regalos únicos? Encuéntralos aquí y sorprende a tus seres queridos. ➡️",
-            "link": "shopify:\/\/collections"
-          }
-        },
         "8ffceb81-57a0-468f-86f0-60d838d303cc": {
           "type": "announcement",
           "settings": {
             "text": "¿Necesitas ayuda? Contáctanos y estaremos encantados de asistirte. ➡️",
             "link": "shopify:\/\/pages\/contact"
           }
-        },
-        "0f169357-0d22-42ab-8c8a-02aa4728e9c2": {
-          "type": "announcement",
-          "settings": {
-            "text": "¡Explora nuestra colección y encuentra tus productos favoritos! ➡️",
-            "link": "shopify:\/\/collections"
-          }
         }
       },
       "block_order": [
-        "sections--19599525609768__af4ee685-9676-411c-9a70-4eae832fb4be-16881014792cb34bbd-0",
-        "8ffceb81-57a0-468f-86f0-60d838d303cc",
-        "0f169357-0d22-42ab-8c8a-02aa4728e9c2"
+        "8ffceb81-57a0-468f-86f0-60d838d303cc"
       ],
       "settings": {
         "color_scheme": "accent-1",
