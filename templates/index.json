@@ -46,20 +46,13 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>¡Envíos Gratuitos! Aprovecha esta oportunidad.<\/strong>",
+            "heading": "<strong>Descubre el estilo sin límites en nuestra tienda E-Smart Store: Moda única para hombres y mujeres<\/strong>",
             "heading_size": "h2"
-          }
-        },
-        "5fefaf29-5766-4106-83ef-d1534e26dc76": {
-          "type": "text",
-          "settings": {
-            "text": "<p>La mayoría de nuestros productos son exportados, lo que implica plazos de entrega de 15 a 45 días hábiles. Trabajamos con proveedores de logística confiables para brindarte amplia cobertura y atención al cliente excepcional en caso de cualquier inconveniente. Tu satisfacción es nuestra prioridad.<\/p>"
           }
         }
       },
       "block_order": [
-        "heading",
-        "5fefaf29-5766-4106-83ef-d1534e26dc76"
+        "heading"
       ],
       "settings": {
         "desktop_content_position": "center",
