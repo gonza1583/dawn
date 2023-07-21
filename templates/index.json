@@ -91,32 +91,72 @@
         "padding_bottom": 24
       }
     },
-    "featured_collection": {
-      "type": "featured-collection",
+    "68e59221-0d10-4831-a3d1-407ea3501d71": {
+      "type": "collection-list",
+      "blocks": {
+        "template--19599526232360__68e59221-0d10-4831-a3d1-407ea3501d71-featured_collection-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "poleras-mujer"
+          }
+        },
+        "template--19599526232360__68e59221-0d10-4831-a3d1-407ea3501d71-featured_collection-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "jeans-mujer"
+          }
+        },
+        "template--19599526232360__68e59221-0d10-4831-a3d1-407ea3501d71-featured_collection-3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "ropa-interior-mujer"
+          }
+        },
+        "90d02536-5b39-4328-80d2-7cbd1dcfe192": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "chaquetas-mujer"
+          }
+        },
+        "2ba30a2c-8232-4adb-ab60-ca030b2cda79": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "ropa-fitness-mujer"
+          }
+        },
+        "27c364d0-17e9-4890-84dc-f6fbe33cd75e": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "accesorios-m"
+          }
+        },
+        "db3c15e8-bf88-49e0-a070-72e6692d37fa": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "polerones-mujer"
+          }
+        }
+      },
+      "block_order": [
+        "template--19599526232360__68e59221-0d10-4831-a3d1-407ea3501d71-featured_collection-1",
+        "template--19599526232360__68e59221-0d10-4831-a3d1-407ea3501d71-featured_collection-2",
+        "template--19599526232360__68e59221-0d10-4831-a3d1-407ea3501d71-featured_collection-3",
+        "90d02536-5b39-4328-80d2-7cbd1dcfe192",
+        "2ba30a2c-8232-4adb-ab60-ca030b2cda79",
+        "27c364d0-17e9-4890-84dc-f6fbe33cd75e",
+        "db3c15e8-bf88-49e0-a070-72e6692d37fa"
+      ],
       "settings": {
-        "title": "<strong>Productos destacados disponibles para ti<\/strong>",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "subtitle",
-        "collection": "productos-destacados",
-        "products_to_show": 15,
-        "columns_desktop": 5,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "outline",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-2",
+        "title": "Collections",
+        "heading_size": "h1",
         "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": true,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 28,
-        "padding_bottom": 0
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
@@ -124,6 +164,6 @@
     "image_banner",
     "rich_text",
     "1009e360-82a0-4396-a15c-8c062f27d417",
-    "featured_collection"
+    "68e59221-0d10-4831-a3d1-407ea3501d71"
   ]
 }
