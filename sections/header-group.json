@@ -26,6 +26,26 @@
     },
     "header": {
       "type": "header",
+      "blocks": {
+        "c28b962b-f73f-4503-a2f9-4c7779ebe5a3": {
+          "type": "shopify:\/\/apps\/wishlist-hero\/blocks\/header-icon\/a9a5079b-59e8-47cb-b659-ecf1c60b9b72",
+          "settings": {
+            "customThemeName": "~",
+            "useCustomHeaderColor": false,
+            "customHeaderColor": "",
+            "useCustomHeaderSize": false,
+            "customHeaderIconSize": 22,
+            "additionalIconCssClassNames": "",
+            "additionalIconStyle": "",
+            "additionalContainerClasses": "",
+            "additionalContainerStyle": "",
+            "replaceExistingClasses": false
+          }
+        }
+      },
+      "block_order": [
+        "c28b962b-f73f-4503-a2f9-4c7779ebe5a3"
+      ],
       "settings": {
         "logo_position": "top-left",
         "menu": "main-menu",
