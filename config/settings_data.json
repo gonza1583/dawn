@@ -1,8 +1,8 @@
 {
   "current": {
-    "logo": "shopify:\/\/shop_images\/e-smartcl_transparente_sombreado.png",
-    "logo_width": 120,
-    "favicon": "shopify:\/\/shop_images\/e-smartcl_logo_cuadrado_16b56522-9d29-4e1c-9d3f-9834d6636f1d.png",
+    "logo": "shopify:\/\/shop_images\/E-SMARTCL_LOGO_3.png",
+    "logo_width": 150,
+    "favicon": "shopify:\/\/shop_images\/E-SMART_LOGO.png",
     "type_header_font": "sans-serif",
     "heading_scale": 115,
     "type_body_font": "sans-serif",
@@ -198,7 +198,7 @@
           "background": "#121212",
           "background_gradient": "",
           "text": "#ffffff",
-          "button": "#fff",
+          "button": "#ffffff",
           "button_label": "#000000",
           "secondary_button_label": "#ffffff",
           "shadow": "#121212"
