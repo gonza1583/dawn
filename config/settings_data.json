@@ -146,20 +146,8 @@
           "additionalWLCartBubbleCssClasses": ""
         }
       },
-      "14190008716408616819": {
-        "type": "shopify:\/\/apps\/avada-email-marketing-sms\/blocks\/app-embed-popup\/3c307d0f-4ec6-4f80-ba42-05314248b065",
-        "disabled": false,
-        "settings": {
-        }
-      },
       "4012516059585860583": {
         "type": "shopify:\/\/apps\/seo-king\/blocks\/seo-king-robots-preview-image\/4aa30173-495d-4e49-b377-c5ee4024262f",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "17129871798451355078": {
-        "type": "shopify:\/\/apps\/onemobile\/blocks\/popup-download\/b9667896-e448-4398-92a2-0ca2a26e8da8",
         "disabled": false,
         "settings": {
         }
@@ -174,6 +162,39 @@
         "type": "shopify:\/\/apps\/seo-king\/blocks\/seo-king-404-redirect\/4aa30173-495d-4e49-b377-c5ee4024262f",
         "disabled": false,
         "settings": {
+        }
+      },
+      "14190008716408616819": {
+        "type": "shopify:\/\/apps\/avada-email-marketing-sms\/blocks\/app-embed-popup\/3c307d0f-4ec6-4f80-ba42-05314248b065",
+        "disabled": true,
+        "settings": {
+        }
+      },
+      "17129871798451355078": {
+        "type": "shopify:\/\/apps\/onemobile\/blocks\/popup-download\/b9667896-e448-4398-92a2-0ca2a26e8da8",
+        "disabled": true,
+        "settings": {
+        }
+      },
+      "18393503268697261835": {
+        "type": "shopify:\/\/apps\/seo-king\/blocks\/seo-king-jsonld-collections\/4aa30173-495d-4e49-b377-c5ee4024262f",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "17619489002456718702": {
+        "type": "shopify:\/\/apps\/seo-king\/blocks\/seo-king-jsonld-website\/4aa30173-495d-4e49-b377-c5ee4024262f",
+        "disabled": false,
+        "settings": {
+          "search": "search",
+          "name": "q"
+        }
+      },
+      "2123730486445879810": {
+        "type": "shopify:\/\/apps\/seo-king\/blocks\/seo-king-jsonld-articles\/4aa30173-495d-4e49-b377-c5ee4024262f",
+        "disabled": false,
+        "settings": {
+          "logo_url": ""
         }
       }
     },
