@@ -169,6 +169,12 @@
         "disabled": false,
         "settings": {
         }
+      },
+      "1005670201854246023": {
+        "type": "shopify:\/\/apps\/seo-king\/blocks\/seo-king-404-redirect\/4aa30173-495d-4e49-b377-c5ee4024262f",
+        "disabled": false,
+        "settings": {
+        }
       }
     },
     "color_schemes": {
