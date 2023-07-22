@@ -90,12 +90,6 @@
             "collection": "denim-colecction"
           }
         },
-        "2ba30a2c-8232-4adb-ab60-ca030b2cda79": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "ropa-fitness-mujer"
-          }
-        },
         "27c364d0-17e9-4890-84dc-f6fbe33cd75e": {
           "type": "featured_collection",
           "settings": {
@@ -132,7 +126,6 @@
         "template--19599526232360__68e59221-0d10-4831-a3d1-407ea3501d71-featured_collection-2",
         "template--19599526232360__68e59221-0d10-4831-a3d1-407ea3501d71-featured_collection-3",
         "90d02536-5b39-4328-80d2-7cbd1dcfe192",
-        "2ba30a2c-8232-4adb-ab60-ca030b2cda79",
         "27c364d0-17e9-4890-84dc-f6fbe33cd75e",
         "db3c15e8-bf88-49e0-a070-72e6692d37fa",
         "8fa8c4df-a808-43bc-a24e-a87213bcfb14",
@@ -145,7 +138,7 @@
         "image_ratio": "portrait",
         "columns_desktop": 3,
         "color_scheme": "",
-        "show_view_all": true,
+        "show_view_all": false,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 36,
