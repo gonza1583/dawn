@@ -51,34 +51,6 @@
         "padding_bottom": 36
       }
     },
-    "1009e360-82a0-4396-a15c-8c062f27d417": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "📚 <strong>Our E-Books Library<\/strong>🌟",
-        "heading_size": "h1",
-        "description": "<p>Seize this opportunity to nourish your mind and unlock your full potential! 🌠💖📚<\/p>",
-        "show_description": false,
-        "description_style": "subtitle",
-        "collection": "📚-nuestra-libreria-de-e-books🌟",
-        "products_to_show": 8,
-        "columns_desktop": 4,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": true,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 24,
-        "padding_bottom": 24
-      }
-    },
     "b48456eb-bd54-43e4-bcb3-7090912c41d6": {
       "type": "featured-collection",
       "settings": {
@@ -167,7 +139,6 @@
   "order": [
     "image_banner",
     "rich_text",
-    "1009e360-82a0-4396-a15c-8c062f27d417",
     "b48456eb-bd54-43e4-bcb3-7090912c41d6",
     "e53fb6e4-4e18-4027-a83d-9561dfcc01bd",
     "8f9f33a8-9e3d-4aa5-b65e-5589e5dfed27"
