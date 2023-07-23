@@ -9,28 +9,16 @@
             "heading": "<strong>Descubre Exclusividad y Calidad:¡No te lo pierdas!<\/strong>",
             "heading_size": "h1"
           }
-        },
-        "button": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "¡Pincha aquí si eres de Chile!",
-            "button_link_1": "shopify:\/\/collections\/all",
-            "button_style_secondary_1": true,
-            "button_label_2": "¡Click here if you're from the United States!",
-            "button_link_2": "shopify:\/\/collections\/shipping-from-usa",
-            "button_style_secondary_2": true
-          }
         }
       },
       "block_order": [
-        "heading",
-        "button"
+        "heading"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/banner.jpg",
         "image_overlay_opacity": 70,
         "image_height": "small",
-        "desktop_content_position": "bottom-center",
+        "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "accent-1",
