@@ -34,7 +34,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Estilo sin límites en <em><strong>E-Smart Store<\/strong><\/em><strong>: <\/strong>Moda única para hombres y mujeres",
+            "heading": "<em>Estilo sin límites en <\/em><em><strong>E-Smart Store: <\/strong><\/em><em>Moda única para hombres y mujeres<\/em>",
             "heading_size": "h2"
           }
         }
@@ -45,10 +45,10 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "background-2",
+        "color_scheme": "inverse",
         "full_width": true,
-        "padding_top": 20,
-        "padding_bottom": 20
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "68e59221-0d10-4831-a3d1-407ea3501d71": {
