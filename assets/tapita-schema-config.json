@@ -1,0 +1,88 @@
+{
+  "localBusiness": {
+    "businessName": "E-Smart Store",
+    "legalName": "E-Smart Store",
+    "foundedOn": "2023",
+    "founder": [
+      "Gonzalo Ahumada Guzmán"
+    ],
+    "streetAddress": "Eduardo Anguita",
+    "stateRegion": "Santiago",
+    "country": "Chile",
+    "city": "Santiago",
+    "type": "Clothing Store",
+    "postalCode": "8050000",
+    "imageUrl": [
+      "https:\/\/tapita.io\/pb\/pub\/media\/spb\/usr\/8739\/wysiwyg\/77957267752\/E-SMART_LOGO.png",
+      "https:\/\/tapita.io\/pb\/pub\/media\/spb\/usr\/8739\/wysiwyg\/77957267752\/20230721_020135_0001.png"
+    ],
+    "phone": "",
+    "priceRange": "",
+    "acceptReservation": "true",
+    "menu": "",
+    "cuisineType": "",
+    "openingHours": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "acceptedCurrencies": "USD",
+    "acceptedPayments": "Credit and Debit Card, Paypal.",
+    "socialProfiles": [
+      "https:\/\/www.instagram.com\/esmartcl"
+    ],
+    "contactPoints": [
+
+    ],
+    "telephone": "+56978304900",
+    "fullField": true,
+    "turnOn": true
+  },
+  "logo": {
+    "turnOn": false,
+    "fullField": false
+  },
+  "breadcrumb": {
+    "turnOn": false,
+    "fullField": false
+  },
+  "howTo": {
+    "turnOn": false,
+    "fullField": false
+  },
+  "siteLink": {
+    "turnOn": false,
+    "fullField": false
+  },
+  "product": {
+    "turnOn": false,
+    "fullField": false
+  },
+  "article": {
+    "turnOn": false,
+    "fullField": false
+  },
+  "faq": {
+    "turnOn": false,
+    "fullField": false
+  },
+  "recipe": {
+    "turnOn": false,
+    "fullField": false
+  },
+  "video": {
+    "turnOn": false,
+    "fullField": false
+  }
+}
