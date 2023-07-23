@@ -533,5 +533,12 @@
       "signup_form_success": "We will send you an email right before we open!",
       "password_link": "Enter using password"
     }
+  },
+  "shopify": {
+    "checkout": {
+      "customer_account": {
+        "invalid_address": "La dirección seleccionada no es válida"
+      }
+    }
   }
 }
