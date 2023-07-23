@@ -8,21 +8,21 @@
         "footer-1": {
           "type": "link_list",
           "settings": {
-            "heading": "INFORMACION",
+            "heading": "INFORMATION",
             "menu": "footer"
           }
         },
         "footer-2": {
           "type": "text",
           "settings": {
-            "heading": "Tu confianza en nosotros es invaluable. Gracias por elegirnos.",
-            "subtext": "<p>Conéctate con nosotros y descubre quiénes somos. Contáctanos para un servicio excepcional y detalles de la tienda. Explora nuestro contenido de marca y comparte tus experiencias. ¡Gracias por ser parte de nuestra comunidad!<\/p>"
+            "heading": "Your trust in us is invaluable. Thank you for choosing us.",
+            "subtext": "<p>Connect with us and discover who we are. Contact us for exceptional service and store details. Explore our brand content and share your experiences. Thank you for being part of our community!<\/p>"
           }
         },
         "12227a87-35ed-49c0-b438-2dcc0f297357": {
           "type": "link_list",
           "settings": {
-            "heading": "POLITICAS Y SERVICIOS",
+            "heading": "POLICIES AND SERVICES",
             "menu": "pol-ticas-y-servicios"
           }
         }
