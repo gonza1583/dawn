@@ -134,9 +134,9 @@
       ],
       "settings": {
         "title": "<strong>Women Collection<\/strong>",
-        "heading_size": "h2",
-        "image_ratio": "portrait",
-        "columns_desktop": 3,
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 2,
         "color_scheme": "",
         "show_view_all": false,
         "columns_mobile": "2",
