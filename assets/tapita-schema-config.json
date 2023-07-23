@@ -50,8 +50,11 @@
     "turnOn": true
   },
   "logo": {
-    "turnOn": false,
-    "fullField": false
+    "turnOn": true,
+    "fullField": true,
+    "imageUrl": [
+      "https:\/\/tapita.io\/pb\/pub\/media\/spb\/usr\/8739\/wysiwyg\/77957267752\/E-SMART_LOGO_2.png"
+    ]
   },
   "breadcrumb": {
     "turnOn": false,
