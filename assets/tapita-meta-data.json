@@ -20,8 +20,8 @@
     },
     "en": {
       "products": {
-        "meta_title_value": "product.title",
-        "meta_title_display": "@[ Product_name ](product.title)",
+        "meta_title_value": "product.title ",
+        "meta_title_display": "@[ Product_name ](product.title) ",
         "meta_description_value": "At shop.name we offer product.title at the lowest price. Check it out now!",
         "meta_description_display": "At @[ Store_name ](shop.name) we offer @[ Product_name ](product.title) at the lowest price. Check it out now!"
       },
