@@ -28,8 +28,8 @@
       "collections": {
         "meta_title_value": "collection.title",
         "meta_title_display": "@[ Collection_name ](collection.title)",
-        "meta_description_value": "Explore our best collection of collection.title. ✓ Free Shipping ✓ Cash on Delivery ✓ Best Offers",
-        "meta_description_display": "Explore our best collection of @[ Collection_name ](collection.title). ✓ Free Shipping ✓ Cash on Delivery ✓ Best Offers"
+        "meta_description_value": "Explore our best collection of collection.title.  ✓ Best Offers",
+        "meta_description_display": "Explore our best collection of @[ Collection_name ](collection.title).  ✓ Best Offers"
       },
       "articles": {
         "meta_title_value": "article.title",
@@ -40,8 +40,8 @@
     },
     "turnOnObject": {
       "products": true,
-      "collections": false,
-      "articles": false
+      "collections": true,
+      "articles": true
     }
   },
   "pageSpeedConfig": false,
