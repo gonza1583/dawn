@@ -106,12 +106,70 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "e53fb6e4-4e18-4027-a83d-9561dfcc01bd": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "<strong>Accesories<\/strong>",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "accesorios-m",
+        "products_to_show": 17,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 84,
+        "padding_bottom": 36
+      }
+    },
+    "8f9f33a8-9e3d-4aa5-b65e-5589e5dfed27": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "image_banner",
     "rich_text",
     "1009e360-82a0-4396-a15c-8c062f27d417",
-    "b48456eb-bd54-43e4-bcb3-7090912c41d6"
+    "b48456eb-bd54-43e4-bcb3-7090912c41d6",
+    "e53fb6e4-4e18-4027-a83d-9561dfcc01bd",
+    "8f9f33a8-9e3d-4aa5-b65e-5589e5dfed27"
   ]
 }
