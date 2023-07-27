@@ -4,5 +4,9 @@
     "market": "chile"
   },
   "sections": {
-  }
+  },
+  "order": [
+    "image_banner",
+    "rich_text"
+  ]
 }
