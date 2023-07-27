@@ -4,5 +4,12 @@
     "market": "chile"
   },
   "sections": {
+    "header": {
+      "settings": {
+        "menu": "menu-chile"
+      },
+      "blocks": {
+      }
+    }
   }
 }
