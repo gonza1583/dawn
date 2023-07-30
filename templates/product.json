@@ -87,6 +87,11 @@
           "type": "shopify:\/\/apps\/trust-badges-bear\/blocks\/widget\/163a9b59-0ec2-4cb7-bf5c-31408b4a9420",
           "settings": {
           }
+        },
+        "judgeme_preview_badge_product_page_04680d05": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
         }
       },
       "block_order": [
@@ -94,6 +99,7 @@
         "title",
         "caption",
         "price",
+        "judgeme_preview_badge_product_page_04680d05",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
@@ -169,10 +175,27 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
+    },
+    "judgeme_section_review_widget_fc90": {
+      "type": "apps",
+      "blocks": {
+        "judgeme_review_widget_dcf63691": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "judgeme_review_widget_dcf63691"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
     "main",
+    "judgeme_section_review_widget_fc90",
     "multicolumn",
     "related-products"
   ]
