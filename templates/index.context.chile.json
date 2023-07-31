@@ -29,7 +29,7 @@
         "show_rating": false,
         "enable_quick_add": false,
         "header-3d1ddb0cc347c1bbccb325a2c6f240bb": null,
-        "columns_mobile": "2",
+        "columns_mobile": "1",
         "swipe_on_mobile": true,
         "header-15b948edf5649bbe246052cb3aef8bbc": null,
         "padding_top": 36,
@@ -66,10 +66,10 @@
         "show_rating": false,
         "enable_quick_add": false,
         "header-2b4b3972a3b94cf0e8fa78232be6fc3f": null,
-        "columns_mobile": "2",
+        "columns_mobile": "1",
         "swipe_on_mobile": true,
         "header-0263175e60671566fe2ef2b76d3bff08": null,
-        "padding_top": 36,
+        "padding_top": 4,
         "padding_bottom": 36
       },
       "blocks": {
