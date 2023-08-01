@@ -4,5 +4,20 @@
     "market": "chile"
   },
   "sections": {
+    "banner": {
+      "settings": {
+        "show_collection_image": false
+      },
+      "blocks": {
+      }
+    },
+    "product-grid": {
+      "settings": {
+        "image_ratio": "portrait",
+        "show_rating": true
+      },
+      "blocks": {
+      }
+    }
   }
 }

@@ -4,5 +4,12 @@
     "market": "chile"
   },
   "sections": {
+    "footer": {
+      "settings": {
+        "enable_language_selector": true
+      },
+      "blocks": {
+      }
+    }
   }
 }
