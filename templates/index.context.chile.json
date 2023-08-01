@@ -82,7 +82,7 @@
       "type": "collection-list",
       "disabled": false,
       "settings": {
-        "title": "Collections",
+        "title": "<strong>Product Categories<\/strong>",
         "heading_size": "h1",
         "image_ratio": "portrait",
         "columns_desktop": 2,
@@ -114,40 +114,10 @@
             "collection": "home-products"
           }
         },
-        "e041f953-89ee-4cce-a653-b701bfee0a14": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "health-and-beauty"
-          }
-        },
-        "04dfc1fe-be9c-47a1-b5dc-3f724c122cbf": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "kitchen-products"
-          }
-        },
         "template--20119668850984__d04900bb-ad6b-4d04-81b6-1c49a23d4dad-featured_collection-3": {
           "type": "featured_collection",
           "settings": {
             "collection": "gadgets-electronic-articles-1"
-          }
-        },
-        "template--20119668850984__d04900bb-ad6b-4d04-81b6-1c49a23d4dad-featured_collection-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "childrens-toys"
-          }
-        },
-        "39b75e91-2a11-4387-823e-48ac305e6580": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "kids-clothing-1"
-          }
-        },
-        "87fc355e-5123-46f9-bcf3-c134dc80d488": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "recien-llegados-chile"
           }
         },
         "f65ef167-33ee-4587-a78c-9b609f103395": {
@@ -156,10 +126,40 @@
             "collection": "phone-accessories"
           }
         },
+        "e041f953-89ee-4cce-a653-b701bfee0a14": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "health-and-beauty"
+          }
+        },
         "3f3d6fdd-5c4e-4c5a-a4dd-8339c0018c03": {
           "type": "featured_collection",
           "settings": {
             "collection": "womens-clothing"
+          }
+        },
+        "39b75e91-2a11-4387-823e-48ac305e6580": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "kids-clothing-1"
+          }
+        },
+        "template--20119668850984__d04900bb-ad6b-4d04-81b6-1c49a23d4dad-featured_collection-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "childrens-toys"
+          }
+        },
+        "87fc355e-5123-46f9-bcf3-c134dc80d488": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "recien-llegados-chile"
+          }
+        },
+        "04dfc1fe-be9c-47a1-b5dc-3f724c122cbf": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "kitchen-products"
           }
         }
       },
@@ -167,14 +167,14 @@
         "3cdc0438-017a-4fa6-a4f7-a50a1adc69c8",
         "template--20119668850984__d04900bb-ad6b-4d04-81b6-1c49a23d4dad-featured_collection-2",
         "071a8999-5292-4a47-8aa4-fa2d70c5dc95",
-        "e041f953-89ee-4cce-a653-b701bfee0a14",
-        "04dfc1fe-be9c-47a1-b5dc-3f724c122cbf",
         "template--20119668850984__d04900bb-ad6b-4d04-81b6-1c49a23d4dad-featured_collection-3",
-        "template--20119668850984__d04900bb-ad6b-4d04-81b6-1c49a23d4dad-featured_collection-1",
-        "39b75e91-2a11-4387-823e-48ac305e6580",
-        "87fc355e-5123-46f9-bcf3-c134dc80d488",
         "f65ef167-33ee-4587-a78c-9b609f103395",
-        "3f3d6fdd-5c4e-4c5a-a4dd-8339c0018c03"
+        "e041f953-89ee-4cce-a653-b701bfee0a14",
+        "3f3d6fdd-5c4e-4c5a-a4dd-8339c0018c03",
+        "39b75e91-2a11-4387-823e-48ac305e6580",
+        "template--20119668850984__d04900bb-ad6b-4d04-81b6-1c49a23d4dad-featured_collection-1",
+        "87fc355e-5123-46f9-bcf3-c134dc80d488",
+        "04dfc1fe-be9c-47a1-b5dc-3f724c122cbf"
       ]
     }
   },
