@@ -4,6 +4,81 @@
     "market": "chile"
   },
   "sections": {
+    "2df3fdfd-4596-4261-bf9d-2b30686bc9d7": {
+      "type": "featured-product",
+      "disabled": false,
+      "settings": {
+        "product": "long-handle-retractable-floor-tile-bathtub-brush",
+        "color_scheme": "background-2",
+        "secondary_background": false,
+        "header-503bdc8b755b8c223e25bae2e5cdaefc": null,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": true,
+        "enable_video_looping": true,
+        "header-e4bf5d664d14e9a6a4a1a70d69e3ba83": null,
+        "padding_top": 36,
+        "padding_bottom": 36
+      },
+      "blocks": {
+        "template--20119668850984__2df3fdfd-4596-4261-bf9d-2b30686bc9d7-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--20119668850984__2df3fdfd-4596-4261-bf9d-2b30686bc9d7-title-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "template--20119668850984__2df3fdfd-4596-4261-bf9d-2b30686bc9d7-price-1": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--20119668850984__2df3fdfd-4596-4261-bf9d-2b30686bc9d7-variant_picker-1": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--20119668850984__2df3fdfd-4596-4261-bf9d-2b30686bc9d7-quantity_selector-1": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "template--20119668850984__2df3fdfd-4596-4261-bf9d-2b30686bc9d7-buy_buttons-1": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "template--20119668850984__2df3fdfd-4596-4261-bf9d-2b30686bc9d7-share-1": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share",
+            "paragraph-2beee3271c2f4b81995177392de6cf9e": null,
+            "paragraph-93fb7bde7e063b1a79e8dbff309b7a36": null
+          }
+        }
+      },
+      "block_order": [
+        "template--20119668850984__2df3fdfd-4596-4261-bf9d-2b30686bc9d7-text-1",
+        "template--20119668850984__2df3fdfd-4596-4261-bf9d-2b30686bc9d7-title-1",
+        "template--20119668850984__2df3fdfd-4596-4261-bf9d-2b30686bc9d7-price-1",
+        "template--20119668850984__2df3fdfd-4596-4261-bf9d-2b30686bc9d7-variant_picker-1",
+        "template--20119668850984__2df3fdfd-4596-4261-bf9d-2b30686bc9d7-quantity_selector-1",
+        "template--20119668850984__2df3fdfd-4596-4261-bf9d-2b30686bc9d7-buy_buttons-1",
+        "template--20119668850984__2df3fdfd-4596-4261-bf9d-2b30686bc9d7-share-1"
+      ]
+    },
     "6ffd1d0d-7452-4845-b42c-894308463f47": {
       "type": "featured-collection",
       "disabled": false,
@@ -21,17 +96,17 @@
         "view_all_style": "solid",
         "enable_desktop_slider": true,
         "color_scheme": "",
-        "header-2da6cc538f1780ef95c3eeca81043f7f": null,
+        "header-178b6601e0fe33ae9247280c04a4d2ad": null,
         "image_ratio": "portrait",
         "image_shape": "default",
         "show_secondary_image": false,
         "show_vendor": false,
         "show_rating": false,
         "enable_quick_add": false,
-        "header-3433fccfe3ef661f720384fe6658d932": null,
+        "header-cd56d1dae11bc7e9ccbfc50b07b1ee7d": null,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "header-579c03690ee3311671a49080cc8ffdcd": null,
+        "header-1c01d09a757545f143d7ad98761f2892": null,
         "padding_top": 36,
         "padding_bottom": 36
       },
@@ -58,17 +133,17 @@
         "view_all_style": "solid",
         "enable_desktop_slider": false,
         "color_scheme": "",
-        "header-7637af1b57abf2d71c31e8db1bc4b6f3": null,
+        "header-0d8cfb76027b82c46e61f7f3e478eb65": null,
         "image_ratio": "portrait",
         "image_shape": "default",
         "show_secondary_image": false,
         "show_vendor": false,
         "show_rating": true,
         "enable_quick_add": true,
-        "header-9aea6f7a958031c992504f686108f2f2": null,
+        "header-05445bd098f7b0988cd512da5ce62653": null,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "header-64d7d0c87e3669f4c9dfa5fd077ddb19": null,
+        "header-7f6795803fdab4f52eacd8ba5468da78": null,
         "padding_top": 4,
         "padding_bottom": 36
       },
@@ -88,10 +163,10 @@
         "columns_desktop": 2,
         "color_scheme": "",
         "show_view_all": true,
-        "header-1986f65ec43b5d9efa0405a8be53cab6": null,
+        "header-f8995a8a842d0032b785f179a65434d1": null,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "header-2924eb24855cacd8e8b768b8de25f17d": null,
+        "header-2e99b326840c216f86173ac7df8449fc": null,
         "padding_top": 36,
         "padding_bottom": 36
       },
@@ -189,79 +264,31 @@
         }
       }
     },
-    "2df3fdfd-4596-4261-bf9d-2b30686bc9d7": {
-      "type": "featured-product",
+    "a29724ba-de99-4b2f-bd0b-d9c8f15f62d4": {
+      "type": "video",
       "disabled": false,
       "settings": {
-        "product": "long-handle-retractable-floor-tile-bathtub-brush",
-        "color_scheme": "background-2",
-        "secondary_background": false,
-        "header-71f8915900ba97dc88f1345853b9993e": null,
-        "media_size": "medium",
-        "constrain_to_viewport": true,
-        "media_fit": "contain",
-        "media_position": "left",
-        "image_zoom": "lightbox",
-        "hide_variants": true,
+        "heading": "<strong>Long Handle Retractable Floor Tile Bathtub Brush<\/strong>",
+        "heading_size": "h1",
         "enable_video_looping": true,
-        "header-6304b7c7395532063d6a84772349b4f2": null,
+        "header-2a09671c6e18f0a39c08ba29f7149e73": null,
+        "video": "shopify:\/\/files\/videos\/final_e5569246-e676-4b26-9728-74102d11c2ad.mp4",
+        "header-da63e37a21034c72eeee79412ed51a6e": null,
+        "paragraph-d3a250028ad5efa9d211636669e7e7da": null,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "cover_image": null,
+        "description": "",
+        "header-df2c1ad876077eea6d54e89090dce08a": null,
+        "full_width": false,
+        "color_scheme": "",
+        "header-d969b34db79d8e7c52f70edfd010f135": null,
         "padding_top": 36,
         "padding_bottom": 36
       },
       "blocks": {
-        "template--20119668850984__2df3fdfd-4596-4261-bf9d-2b30686bc9d7-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "template--20119668850984__2df3fdfd-4596-4261-bf9d-2b30686bc9d7-title-1": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h1"
-          }
-        },
-        "template--20119668850984__2df3fdfd-4596-4261-bf9d-2b30686bc9d7-price-1": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "template--20119668850984__2df3fdfd-4596-4261-bf9d-2b30686bc9d7-variant_picker-1": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "template--20119668850984__2df3fdfd-4596-4261-bf9d-2b30686bc9d7-quantity_selector-1": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
-        "template--20119668850984__2df3fdfd-4596-4261-bf9d-2b30686bc9d7-buy_buttons-1": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "show_gift_card_recipient": true
-          }
-        },
-        "template--20119668850984__2df3fdfd-4596-4261-bf9d-2b30686bc9d7-share-1": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share",
-            "paragraph-bf6e190b089dc0fccd20d6abe7c97810": null,
-            "paragraph-53c35aee0df305480077a10c95ff1820": null
-          }
-        }
       },
       "block_order": [
-        "template--20119668850984__2df3fdfd-4596-4261-bf9d-2b30686bc9d7-text-1",
-        "template--20119668850984__2df3fdfd-4596-4261-bf9d-2b30686bc9d7-title-1",
-        "template--20119668850984__2df3fdfd-4596-4261-bf9d-2b30686bc9d7-price-1",
-        "template--20119668850984__2df3fdfd-4596-4261-bf9d-2b30686bc9d7-variant_picker-1",
-        "template--20119668850984__2df3fdfd-4596-4261-bf9d-2b30686bc9d7-quantity_selector-1",
-        "template--20119668850984__2df3fdfd-4596-4261-bf9d-2b30686bc9d7-buy_buttons-1",
-        "template--20119668850984__2df3fdfd-4596-4261-bf9d-2b30686bc9d7-share-1"
+
       ]
     }
   },
@@ -271,6 +298,7 @@
     "2df3fdfd-4596-4261-bf9d-2b30686bc9d7",
     "6ffd1d0d-7452-4845-b42c-894308463f47",
     "848dbc31-e217-438f-884b-e0ff0ae319ea",
-    "d04900bb-ad6b-4d04-81b6-1c49a23d4dad"
+    "d04900bb-ad6b-4d04-81b6-1c49a23d4dad",
+    "a29724ba-de99-4b2f-bd0b-d9c8f15f62d4"
   ]
 }
