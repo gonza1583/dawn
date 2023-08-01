@@ -189,39 +189,12 @@
         }
       }
     },
-    "565c5648-ffbf-4da3-9c75-32265fff02d5": {
-      "type": "video",
-      "disabled": false,
-      "settings": {
-        "heading": "<strong>Long Handle Retractable Floor Tile Bathtub Brush<\/strong>",
-        "heading_size": "h1",
-        "enable_video_looping": true,
-        "header-38002556c90d6572f937fd01c37e92d4": null,
-        "video": "shopify:\/\/files\/videos\/5a848d01f42746ef9f12c830dff279c5-2f023017ee35959c74b8494dcd48b904-ld.mp4.mp4",
-        "header-178099708767299e178ffd2b0143d958": null,
-        "paragraph-e527de4d49c45c42453b84ac0cbd2c39": null,
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "cover_image": "shopify:\/\/shop_images\/1617420686160.jpg",
-        "description": "",
-        "header-04342480c57ebf7c2a039c1e78f7cae5": null,
-        "full_width": false,
-        "color_scheme": "",
-        "header-d1312decac487bc2b28cb67b6c57fa40": null,
-        "padding_top": 36,
-        "padding_bottom": 36
-      },
-      "blocks": {
-      },
-      "block_order": [
-
-      ]
-    },
     "2df3fdfd-4596-4261-bf9d-2b30686bc9d7": {
       "type": "featured-product",
       "disabled": false,
       "settings": {
         "product": "long-handle-retractable-floor-tile-bathtub-brush",
-        "color_scheme": "",
+        "color_scheme": "background-2",
         "secondary_background": false,
         "header-71f8915900ba97dc88f1345853b9993e": null,
         "media_size": "medium",
@@ -295,7 +268,6 @@
   "order": [
     "image_banner",
     "rich_text",
-    "565c5648-ffbf-4da3-9c75-32265fff02d5",
     "2df3fdfd-4596-4261-bf9d-2b30686bc9d7",
     "6ffd1d0d-7452-4845-b42c-894308463f47",
     "848dbc31-e217-438f-884b-e0ff0ae319ea",
