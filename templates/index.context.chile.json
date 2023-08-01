@@ -188,11 +188,115 @@
           }
         }
       }
+    },
+    "565c5648-ffbf-4da3-9c75-32265fff02d5": {
+      "type": "video",
+      "disabled": false,
+      "settings": {
+        "heading": "Video",
+        "heading_size": "h1",
+        "enable_video_looping": true,
+        "header-38002556c90d6572f937fd01c37e92d4": null,
+        "video": "shopify:\/\/files\/videos\/aspiradora electrica.mp4",
+        "header-178099708767299e178ffd2b0143d958": null,
+        "paragraph-e527de4d49c45c42453b84ac0cbd2c39": null,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "cover_image": "shopify:\/\/shop_images\/1617420686160.jpg",
+        "description": "",
+        "header-04342480c57ebf7c2a039c1e78f7cae5": null,
+        "full_width": false,
+        "color_scheme": "",
+        "header-d1312decac487bc2b28cb67b6c57fa40": null,
+        "padding_top": 36,
+        "padding_bottom": 36
+      },
+      "blocks": {
+      },
+      "block_order": [
+
+      ]
+    },
+    "2df3fdfd-4596-4261-bf9d-2b30686bc9d7": {
+      "type": "featured-product",
+      "disabled": false,
+      "settings": {
+        "product": "long-handle-retractable-floor-tile-bathtub-brush",
+        "color_scheme": "",
+        "secondary_background": false,
+        "header-71f8915900ba97dc88f1345853b9993e": null,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": true,
+        "enable_video_looping": true,
+        "header-6304b7c7395532063d6a84772349b4f2": null,
+        "padding_top": 36,
+        "padding_bottom": 36
+      },
+      "blocks": {
+        "template--20119668850984__2df3fdfd-4596-4261-bf9d-2b30686bc9d7-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--20119668850984__2df3fdfd-4596-4261-bf9d-2b30686bc9d7-title-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "template--20119668850984__2df3fdfd-4596-4261-bf9d-2b30686bc9d7-price-1": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--20119668850984__2df3fdfd-4596-4261-bf9d-2b30686bc9d7-variant_picker-1": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--20119668850984__2df3fdfd-4596-4261-bf9d-2b30686bc9d7-quantity_selector-1": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "template--20119668850984__2df3fdfd-4596-4261-bf9d-2b30686bc9d7-buy_buttons-1": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "template--20119668850984__2df3fdfd-4596-4261-bf9d-2b30686bc9d7-share-1": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share",
+            "paragraph-bf6e190b089dc0fccd20d6abe7c97810": null,
+            "paragraph-53c35aee0df305480077a10c95ff1820": null
+          }
+        }
+      },
+      "block_order": [
+        "template--20119668850984__2df3fdfd-4596-4261-bf9d-2b30686bc9d7-text-1",
+        "template--20119668850984__2df3fdfd-4596-4261-bf9d-2b30686bc9d7-title-1",
+        "template--20119668850984__2df3fdfd-4596-4261-bf9d-2b30686bc9d7-price-1",
+        "template--20119668850984__2df3fdfd-4596-4261-bf9d-2b30686bc9d7-variant_picker-1",
+        "template--20119668850984__2df3fdfd-4596-4261-bf9d-2b30686bc9d7-quantity_selector-1",
+        "template--20119668850984__2df3fdfd-4596-4261-bf9d-2b30686bc9d7-buy_buttons-1",
+        "template--20119668850984__2df3fdfd-4596-4261-bf9d-2b30686bc9d7-share-1"
+      ]
     }
   },
   "order": [
     "image_banner",
     "rich_text",
+    "565c5648-ffbf-4da3-9c75-32265fff02d5",
+    "2df3fdfd-4596-4261-bf9d-2b30686bc9d7",
     "6ffd1d0d-7452-4845-b42c-894308463f47",
     "848dbc31-e217-438f-884b-e0ff0ae319ea",
     "d04900bb-ad6b-4d04-81b6-1c49a23d4dad"
