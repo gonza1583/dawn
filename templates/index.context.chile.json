@@ -176,6 +176,17 @@
         "87fc355e-5123-46f9-bcf3-c134dc80d488",
         "04dfc1fe-be9c-47a1-b5dc-3f724c122cbf"
       ]
+    },
+    "rich_text": {
+      "settings": {
+      },
+      "blocks": {
+        "heading": {
+          "settings": {
+            "heading": "<em>Experience an Infinite Collection of Exclusive Products at E-Smart Store<\/em>"
+          }
+        }
+      }
     }
   },
   "order": [
