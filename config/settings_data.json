@@ -217,10 +217,10 @@
           "background": "#ffffff",
           "background_gradient": "",
           "text": "#121212",
-          "button": "#121212",
+          "button": "#00be60",
           "button_label": "#ffffff",
           "secondary_button_label": "#121212",
-          "shadow": "#121212"
+          "shadow": "#00ff81"
         }
       },
       "background-2": {
@@ -228,10 +228,10 @@
           "background": "#f3f3f3",
           "background_gradient": "",
           "text": "#121212",
-          "button": "#121212",
+          "button": "#00be60",
           "button_label": "#f3f3f3",
           "secondary_button_label": "#121212",
-          "shadow": "#121212"
+          "shadow": "#00ff81"
         }
       },
       "inverse": {
@@ -239,10 +239,10 @@
           "background": "#242833",
           "background_gradient": "",
           "text": "#ffffff",
-          "button": "#ffffff",
+          "button": "#00be60",
           "button_label": "#000000",
           "secondary_button_label": "#ffffff",
-          "shadow": "#121212"
+          "shadow": "#00ff81"
         }
       },
       "accent-1": {
@@ -250,10 +250,10 @@
           "background": "#121212",
           "background_gradient": "",
           "text": "#ffffff",
-          "button": "#ffffff",
-          "button_label": "#000000",
+          "button": "#00be60",
+          "button_label": "#ffffff",
           "secondary_button_label": "#ffffff",
-          "shadow": "#121212"
+          "shadow": "#00ff81"
         }
       },
       "accent-2": {
@@ -261,10 +261,10 @@
           "background": "#334fb4",
           "background_gradient": "",
           "text": "#ffffff",
-          "button": "#ffffff",
+          "button": "#00be60",
           "button_label": "#334fb4",
           "secondary_button_label": "#ffffff",
-          "shadow": "#121212"
+          "shadow": "#00ff81"
         }
       }
     }
