@@ -10,7 +10,7 @@
       "settings": {
         "title": "<strong>New Arrivals<\/strong>",
         "heading_size": "h1",
-        "description": "<p>Envío Gratis<\/p>",
+        "description": "<p>Free Shipping<\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "recien-llegados-chile",
@@ -47,7 +47,7 @@
       "settings": {
         "title": "<strong>Kitchen Products<\/strong>",
         "heading_size": "h1",
-        "description": "<p>Envío gratis<\/p>",
+        "description": "<p>Free Shipping<\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "kitchen-products",
@@ -178,6 +178,7 @@
       ]
     },
     "rich_text": {
+      "disabled": false,
       "settings": {
       },
       "blocks": {
